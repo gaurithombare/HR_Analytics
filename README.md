@@ -75,3 +75,13 @@ The dashboard revealed strong patterns around age, salary, tenure, and job role.
 
 ## 📁 File Structure
 
+HR_Analytics/
+│
+├── HR_Analytics.pdf           # Exported snapshot or presentation of the dashboard
+├── HR_Analytics.pbix          # Power BI dashboard file (if you're uploading it)
+├── README.md                  # Project documentation
+├── Insights.txt               # (Optional) Bullet-point summary of key findings
+└── Screenshots/               # (Optional) Folder containing images of dashboard visuals
+    ├── KPI_Cards.png
+    ├── Attrition_By_Age.png
+    └── Attrition_By_JobRole.png
